@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\repositories\\interface\\ibookinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\ibookinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\putaa\\downloads\\prn212_as2-main\\prn212_as2-main\\dataaccesslayer\\bookinghistorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookinghistorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:33:59.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:33:48.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repositories",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T16:50:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookingHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:50:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:54:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T16:54:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingHistoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\DataAccessLayer\\BookingHistoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingHistoryDAO.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\PRN212_AS2-main\\PRN212_AS2-main\\DataAccessLayer\\BookingHistoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingHistoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:33:42.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

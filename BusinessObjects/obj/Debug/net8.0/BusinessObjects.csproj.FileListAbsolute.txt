@@ -1,0 +1,56 @@
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

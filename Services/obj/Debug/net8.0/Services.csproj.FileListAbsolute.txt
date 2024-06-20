@@ -1,0 +1,84 @@
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.deps.json
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Repositories.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Repositories.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Repositories.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Repositories.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\ref\Services.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.deps.json
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Services.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\BusinessObjects.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\DataAccessLayer.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Repositories.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\bin\Debug\net8.0\Repositories.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\refint\Services.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\Services.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\Repositories.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\Services\obj\Debug\net8.0\ref\Services.dll

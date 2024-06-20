@@ -1,0 +1,691 @@
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.exe
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.deps.json
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.runtimeconfig.json
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Humanizer.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.NativeInterop.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.DesignTools.Extensibility.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.DesignTools.Interaction.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Core.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.WinForms.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Wpf.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Mono.TextTemplating.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.AttributedModel.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Convention.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Hosting.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Runtime.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.TypedParts.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\msalruntime.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Services.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Services.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.AssemblyReference.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\App.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.lref
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.baml
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.g.resources
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfoInputs.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfo.cs
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.CopyComplete
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\refint\WPFApp.dll
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.pdb
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.genruntimeconfig.cache
+D:\Work\SourceCode\New folder\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ref\WPFApp.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.exe
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.deps.json
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.runtimeconfig.json
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.DesignTools.Extensibility.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.DesignTools.Interaction.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Convention.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Services.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Services.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.lref
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.baml
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.g.resources
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.Up2Date
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\refint\WPFApp.dll
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.pdb
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ref\WPFApp.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.exe
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.deps.json
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.runtimeconfig.json
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Humanizer.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.NativeInterop.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.DesignTools.Extensibility.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.VisualStudio.DesignTools.Interaction.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Core.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.WinForms.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Wpf.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Mono.TextTemplating.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.AttributedModel.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Convention.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Hosting.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Runtime.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.TypedParts.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\msalruntime.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\msalruntime_x86.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\WebView2Loader.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\WebView2Loader.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\WebView2Loader.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Services.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Services.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.AssemblyReference.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\App.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.lref
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.baml
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.g.resources
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfoInputs.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfo.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.Up2Date
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\refint\WPFApp.dll
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.pdb
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.genruntimeconfig.cache
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Debug\net8.0-windows7.0\ref\WPFApp.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.exe
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.deps.json
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.runtimeconfig.json
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\WPFApp.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Core.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Azure.Identity.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Humanizer.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Mono.TextTemplating.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.AttributedModel.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Convention.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Hosting.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.Runtime.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Composition.TypedParts.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Memory.Data.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\System.Runtime.Caching.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Services.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Services.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\BusinessObjects.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\DataAccessLayer.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\Repositories.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.AssemblyReference.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\LoginWindow.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\ProfileManagement.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\ReportStatistics.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp_MarkupCompile.lref
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AddEditBookingDialog.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AddEditCustomerDialog.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AddEditRoomDialog.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\AdminWindow.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\BookingHistory.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\CustomerManagement.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\RoomManagement.baml
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.g.resources
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfoInputs.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.AssemblyInfo.cs
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.csproj.Up2Date
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\refint\WPFApp.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.pdb
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\WPFApp.genruntimeconfig.cache
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\obj\Debug\net8.0-windows7.0\ref\WPFApp.dll
+C:\Users\Putaa\Downloads\PRN212_AS2-main\PRN212_AS2-main\WPFApp\bin\Debug\net8.0-windows7.0\appsettings.json

@@ -1,0 +1,20 @@
+﻿WPFApp
+
+
+winexe
+C#
+.cs
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\obj\Release\net8.0-windows7.0\
+WPFApp
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+F:\Ky 5\PRN212\PRN-FUMiniHotelManagement\PRN-FUMiniHotelManagement\WPFApp\App.xaml
+111111229998
+
+152137226146
+2511584920392
+AddEditBookingDialog.xaml;AddEditCustomerDialog.xaml;AddEditRoomDialog.xaml;AdminWindow.xaml;BookingHistory.xaml;CustomerManagement.xaml;LoginWindow.xaml;MainWindow.xaml;ProfileManagement.xaml;ReportStatistics.xaml;RoomManagement.xaml;
+
+True
+
